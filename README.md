@@ -1,4 +1,4 @@
-                                                                                    # The-Unity-Bank--main
+ # The-Unity-Bank--main
 
 Graduate Rotational Internship Program - The Sparks Foundation
 
