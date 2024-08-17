@@ -22,10 +22,7 @@ Host the website at 000webhost, github.io, heroku app or any other free hosting 
 
 # Technologies used
 
-<img src="https://user-images.githubusercontent.com/75536064/124356109-037e0c80-dc32-11eb-9392-a729812c1f84.png" width="50">
-<img src="https://user-images.githubusercontent.com/75536064/124356053-c6b21580-dc31-11eb-9e48-180d9c712ffc.png"  width="50">
-<img src="https://user-images.githubusercontent.com/75536064/124356142-24466200-dc32-11eb-876e-9fc4da0b6cfd.png"  width="50">
-<img src="https://user-images.githubusercontent.com/75536064/124356118-0d077480-dc32-11eb-93b0-b75eebd34abf.png"  width="50">
+<img src="https://user-images.githubusercontent.com/75536064/124356109-037e0c80-dc32-11eb-9392-a729812c1f84.png" width="50"><img src="https://user-images.githubusercontent.com/75536064/124356053-c6b21580-dc31-11eb-9e48-180d9c712ffc.png"  width="50"><img src="https://user-images.githubusercontent.com/75536064/124356142-24466200-dc32-11eb-876e-9fc4da0b6cfd.png"  width="50"><img src="https://user-images.githubusercontent.com/75536064/124356118-0d077480-dc32-11eb-93b0-b75eebd34abf.png"  width="50">
 
 # About
 
